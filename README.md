@@ -1,5 +1,5 @@
 # MATLAB_Christmas-tree
-
+# this can make a stop
 close all;clear;clc
 % setup
 snow=450;    % number of snow flakes [0 .. 5000]
